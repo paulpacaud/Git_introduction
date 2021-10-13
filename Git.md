@@ -1,10 +1,10 @@
 # Prise en main de git et gitlab
 
 
-Comme vous l'avez vu dans le cadre du cours [SIP](https://wdi.centralesupelec.fr/1CC1000/GitAndGitLab), [**git**](https://git-scm.com/) est un logiciel de gestion de versions décentralisé, certainement le plus [populaire](https://news.softpedia.com/news/git-2-8-2-popular-source-code-management-system-released-with-over-18-bug-fixes-503591.shtml).
+Comme nous allons le voir dans le cadre du cours de [SIP](https://wdi.centralesupelec.fr/1CC1000/GitAndGitLab), [**git**](https://git-scm.com/) est un logiciel de gestion de versions décentralisé, certainement le plus [populaire](https://news.softpedia.com/news/git-2-8-2-popular-source-code-management-system-released-with-over-18-bug-fixes-503591.shtml).
 
 
-Comme c'est un outil fondamental pour tout travail de développement informatique en équipe, encore plus dans le contexte distanciel actuel, plusieurs montées en compétences sur cet outil seront faites  lors de cette première semaine des coding weeks.
+C'est un outil fondamental pour tout travail de développement informatique en équipe.
 
 
 ## Les ressources disponibles
@@ -53,9 +53,6 @@ Vous devriez avoir ceci comme écran cela après la résolution de ces 4 challen
 
 
 <img src="./Images/gittuto2.png" alt="drawing" width="500"/>
-
-
-Quand vous avez terminé, vous pouvez faire le petit test de connaissance qui se trouve sur l'espace commun des coding weeks (Campus Saclay) sur EDUNAO : [c'est ici](https://centralesupelec.edunao.com/mod/quiz/view.php?id=36700).
 
  
  
