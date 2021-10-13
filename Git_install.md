@@ -66,7 +66,10 @@ Chacun membre du groupe va maintenant devoir copier (cloner) ce dépôt sur son 
 
 + Le numéro de version de git devrait apparaître.
 
-+ Placez-vous maintenant dans le dossier (aussi appelé répertoire) où vous voulez créer votre projet à l'aide de la commande `cd`.
++ Placez-vous maintenant dans le dossier (aussi appelé répertoire) où vous voulez créer votre projet à l'aide de la commande `cd`. Pour cela, taper dans le terminal :
++ cd Documents
++ mkdir debut_Git
++ cd debut_Git
 
 + Allez sur Gitlab récupérer l'adresse web de votre dépôt.
 
