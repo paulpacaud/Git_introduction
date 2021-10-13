@@ -14,7 +14,7 @@ Une des premières choses à faire avant cette mise en place est de vous accorde
 Pour commencer, vous allez configurer git et gitlab pour pouvoir travailler en groupe sur ce projet. Supposons que votre groupe est composé de 3 personnes : **A**, **B** et **C**.
 
 
-Nous allons considérer que c'est ici la personne **A** qui prend la main.
+Nous allons considérer que c'est ici la personne **A** qui prend la main..
 
 
 #### Consignes pour la personne **A**
@@ -34,7 +34,7 @@ Vous devriez avoir ensuite une vue comme celle ci-dessous.
 <img src="./Images/Gitlab_project_3.png" alt="drawing" width="500"/>
 
 
-##### Si besoin :  Ajouter une clé SSH à votre dépôt
+##### Pas besoin dans le TD MS T&M :  Ajouter une clé SSH à votre dépôt
 
 Si c'est le cas, la fenêtre jaune au dessus de la page vous alerte sur le fait que votre profil n'a pas de clé [SSH](https://fr.wikipedia.org/wiki/Secure_Shell) associée.
 
@@ -43,9 +43,9 @@ Si c'est le cas, la fenêtre jaune au dessus de la page vous alerte sur le fait 
 
 ##### Ajout de collaborateurs
 
-Vous allez maintenant ajouter les autres membres de votre groupe, vos enseignants référents et la responsable (identifiant : `@celine.hudelot`) comme collaborateur de votre dépôt.
+Vous allez maintenant ajouter les autres membres de votre groupe comme collaborateur de votre dépôt.
 
-Pour cela, allez sur votre depôt GitLab et choisissez le menu `Members` dans la fenêtre de gauche. Ajouter votre binôme et votre enseignant comme collaborateur. Les différents membres de votre groupe seront *Maintainer* et vos enseignants et encadrants seront *Reporter*.
+Pour cela, allez sur votre depôt GitLab et choisissez le menu `Members` dans la fenêtre de gauche. Ajouter votre binôme comme collaborateur. Les différents membres de votre groupe seront *Maintainer*.
 
 <img src="./Images/Gitlab_project_4.png" alt="drawing" width="500"/>
 
